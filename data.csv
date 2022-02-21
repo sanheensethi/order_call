@@ -1,5 +1,5 @@
-Time,Weather,Temperature,Company,Humidity,Wind,Goes
-Morning,Sunny,Warm,Yes,Mild,Strong,Yes
-Evening,Rainy,Cold,No,Mild,Normal,No
-Morning,Sunny,Moderate,Yes,Normal,Normal,Yes
-Evening,Sunny,Cold,Yes,High,Strong,Yes
+Citations,Size,InLibrary,Price,Editions,Buy
+Some,	Small,	No,	Affordable,	One,	No
+Many,	Big,	No,	Expensive,	Many,	Yes
+Many,	Medium,	No,	Expensive,	Few,	Yes
+Many,	Small,	No,	Affordable,	Many,	Yes
